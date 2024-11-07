@@ -15,6 +15,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Pi1998/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Pi1998/LeetCode/tree/master/0013-roman-to-integer) |
+| [0326-power-of-three](https://github.com/Pi1998/LeetCode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pi1998/LeetCode/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Pi1998/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
