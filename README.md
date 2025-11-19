@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pi1998/LeetCode/tree/master/0001-two-sum) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Pi1998/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Hash Table
 |  |
 | ------- |
