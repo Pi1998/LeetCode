@@ -17,6 +17,7 @@
 | [0009-palindrome-number](https://github.com/Pi1998/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Pi1998/LeetCode/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/Pi1998/LeetCode/tree/master/0326-power-of-three) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Pi1998/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pi1998/LeetCode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Pi1998/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
